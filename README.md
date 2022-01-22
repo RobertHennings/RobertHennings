@@ -15,11 +15,13 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 #### Additionally I am active in the Academic Stock Exchange Association e. V. (ABB e. V.) and the Blockchain Association SH e. V. (BASH e. V.)
 
 <p align="center">
-  <img src="https://github.com/RobertHennings/RobertHennings/blob/main/ABBeVLogo.jpeg" width="600"/>
+  <img src="https://github.com/RobertHennings/RobertHennings/blob/main/ABBeVLogo.jpeg" 
+       width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/RobertHennings/RobertHennings/blob/main/BASHeVLogo.png" width="600"/>
+  <img src="https://github.com/RobertHennings/RobertHennings/blob/main/BASHeVLogo.png" 
+       width="200"/>
 </p>
 
 ##### For any further Questions or if you would like to stay in touch, don't hesitate to reach out to me via [LinkedIn](http://linkedin.com/in/robert-hennings). 
@@ -27,7 +29,12 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 
 <!--
 **RobertHennings/RobertHennings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p float="left">
+  <img src="https://github.com/RobertHennings/RobertHennings/blob/main/ABBeVLogo.jpeg" 
+       width="200"/>
+   <img src="https://github.com/RobertHennings/RobertHennings/blob/main/BASHeVLogo.png" 
+       width="200"/>
+ </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
