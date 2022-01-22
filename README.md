@@ -11,7 +11,7 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 #### Seminar paper: [(Un)divided attention? Effects of increasing smartphone usage on the human brain](https://github.com/RobertHennings/SeminarPaper_Attention/blob/main/Essay%20E3%20Robert%20Hennings%20SS21.pdf) (Final Grade: 1.0, 4.0 GPA)
 
 ##### Thematically most of the files deal with topics from the Finance/ Quantitative Finance field.
-#### Topics that interest me are: Quantitative Finance, Stochastic Processes, Machine Learning, Big Data Analytics, Statistics and Inferential Statistics,                  Computational Finance, Market Making, High Frequency Trading, Derivatives, Fixed Income Derivatives, Neural Networks and Deep Learning, Neuroscience and Neuromathematics, Financial Engineering, Data Science, Statistical Learning, Algorithmic Trading, Portfoliomanagement, Asset Management, Optimisation. Mathematical Finance
+#### Topics that interest me are: Quantitative Finance, Stochastic Processes, Machine Learning, Big Data Analytics, Statistics and Inferential Statistics,                  Computational Finance, Market Making, High Frequency Trading, Derivatives, Fixed Income Derivatives, Neural Networks and Deep Learning, Neuroscience and Neuromathematics, Financial Engineering, Data Science, Statistical Learning, Algorithmic Trading, Portfoliomanagement, Asset Management, Optimisation, Mathematical Finance
 ##### For any further Questions or if you would like to stay in touch, don't hesitate to reach out to me via [LinkedIn](http://linkedin.com/in/robert-hennings). 
 ##### Cheers, Robert
 <!--
