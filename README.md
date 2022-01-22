@@ -1,6 +1,12 @@
 ### Hello I am Robert, nice to meet you 👋
-### I am currently studying the Masters programme in Quantitative Finance at the Christian-Albrechts-University of Kiel, SH Germany.
+### I am currently studying the Masters programme in [Quantitative Finance at the Christian-Albrechts-University of Kiel](http://www.studservice.uni-kiel.de/sta/fachpruefungsordnung-quantitative-finance-master-1-fach.pdf#page=8), SH Germany.
 ### Here on Github I am hosting all kinds of little own projects, files and concepts from my various university modules.
+### Various academic works of mine are present too:
+### Bachelor thesis: [Is liquidity risk still priced in the cross-section of US stocks?](https://github.com/RobertHennings/BachelorThesis/blob/main/Thesis%20Robert%20Hennings%202021%20Eng.pdf)
+### Seminar paper: Are dividends actually disappearing? - Global evidence
+### Seminar paper: Artificial neural networks (ANN) in business and technology
+### Seminar paper: (Un)divided attention? Effects of increasing smartphone usage on the human brain
+
 ### Thematically most of the files deal with topics from the Finance/ Quantitative Finance field.
 ### For any further Questions or if you would like to stay in touch, don't hesitate to reach out to me via [LinkedIn](http://linkedin.com/in/robert-hennings). 
 ### Cheers, Robert
