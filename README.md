@@ -12,7 +12,7 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 
 ##### Thematically most of the files deal with topics from the Finance/ Quantitative Finance field.
 #### Topics that interest me are: Quantitative Finance, Stochastic Processes, Machine Learning, Big Data Analytics, Statistics and Inferential Statistics,                  Computational Finance, Market Making, High Frequency Trading, Derivatives, Fixed Income Derivatives, Neural Networks and Deep Learning, Neuroscience and Neuromathematics, Financial Engineering, Data Science, Statistical Learning, Algorithmic Trading, Portfoliomanagement, Asset Management, Optimisation, Mathematical Finance
-#### Additionally I am active in the Academic Stock Exchange Association e. V. (ABB e. V.) and the Blockchain Association SH e. V. (BASH e. V.)
+#### Additionally I am active in the [Academic Stock Exchange Association e. V. (ABB e. V.)](https://abbev.org) and the [Blockchain Association SH e. V. (BASH e. V.)](https://www.blockchain-sh.de).
 
 <p align="center">
   <img src="https://github.com/RobertHennings/RobertHennings/blob/main/ABBeVLogo.jpeg" 
