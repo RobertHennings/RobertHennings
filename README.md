@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello I am Robert, nice to meet you 👋
+### I am currently studying the Masters programme in Quantitative Finance at the Christian-Albrechts-University of Kiel, SH Germany.
+### Here on Github I am hosting all kinds of little own projects, files and concepts from my various university modules.
+### Thematically most of the files deal with topics from the Finance/ Quantitative Finance field.
+### For any further Questions or if you would like to stay in touch, don't hesitate to reach out to me via LinkedIn.
+### Cheers, Robert
 <!--
 **RobertHennings/RobertHennings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
