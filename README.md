@@ -15,7 +15,8 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 * ##### [Main Papers](https://github.com/RobertHennings/BachelorThesisLiteratureMainPaper)
 * ##### [Good Overviews of the Topic in General](https://github.com/RobertHennings/BachelorThesisLiteratureTopOverview)
 * ##### [Literature](https://github.com/RobertHennings/BachelorThesisLiterature)
-#### Topics that interest me are: Quantitative Finance, Stochastic Processes, Machine Learning, Big Data Analytics, Statistics and Inferential Statistics,                  Computational Finance, Market Making, High Frequency Trading, Derivatives, Fixed Income Derivatives, Neural Networks and Deep Learning, Neuroscience and Neuromathematics, Financial Engineering, Data Science, Statistical Learning, Algorithmic Trading, Portfoliomanagement, Asset Management, Optimisation, Mathematical Finance
+#### Lecture Notes of my Masters Programme can be found here: [CAU University of Kiel Lecture Notes in Mathematical Finance](https://www.math.uni-kiel.de/finmath/de/personen/kallsen/lec_notes)
+#### Topics that interest me are: Quantitative Finance, Stochastic Processes, Machine Learning, Big Data Analytics, Statistics and Inferential Statistics,                  Computational Finance, Market Making, High Frequency Trading, Derivatives, Fixed Income Derivatives, Neural Networks and Deep Learning, Neuroscience and Neuromathematics, Financial Engineering, Data Science, Statistical Learning, Algorithmic Trading, Portfoliomanagement, Asset Management, Optimisation, Mathematical Finance, Market-Microstructure
 #### Additionally I am active in the [Academic Stock Exchange Association e. V. (ABB e. V.)](https://abbev.org) and the [Blockchain Association SH e. V. (BASH e. V.)](https://www.blockchain-sh.de).
 
 <p align="center">
