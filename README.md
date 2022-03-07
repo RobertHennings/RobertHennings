@@ -11,6 +11,10 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 * #### Seminar paper: [(Un)divided attention? Effects of increasing smartphone usage on the human brain](https://github.com/RobertHennings/SeminarPaper_Attention/blob/main/Essay%20E3%20Robert%20Hennings%20SS21.pdf) (Final Grade: 1.0, 4.0 GPA)
 
 ##### Thematically most of the files deal with topics from the Finance/ Quantitative Finance field.
+##### The Literature I used to write my Bachelor Thesis can be found here:
+* ##### [Main Papers](https://github.com/RobertHennings/BachelorThesisLiteratureMainPaper)
+* ##### [Good Overviews of the Topic in General](https://github.com/RobertHennings/BachelorThesisLiteratureTopOverview)
+* ##### [Literature](https://github.com/RobertHennings/BachelorThesisLiterature)
 #### Topics that interest me are: Quantitative Finance, Stochastic Processes, Machine Learning, Big Data Analytics, Statistics and Inferential Statistics,                  Computational Finance, Market Making, High Frequency Trading, Derivatives, Fixed Income Derivatives, Neural Networks and Deep Learning, Neuroscience and Neuromathematics, Financial Engineering, Data Science, Statistical Learning, Algorithmic Trading, Portfoliomanagement, Asset Management, Optimisation, Mathematical Finance
 #### Additionally I am active in the [Academic Stock Exchange Association e. V. (ABB e. V.)](https://abbev.org) and the [Blockchain Association SH e. V. (BASH e. V.)](https://www.blockchain-sh.de).
 
