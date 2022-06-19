@@ -12,8 +12,8 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 
 ##### Thematically most of the files deal with topics from the Finance/ Quantitative Finance field.
 ##### The Literature I used to write my Bachelor Thesis can be found here:
-* ##### [Main Papers](https://github.com/RobertHennings/BachelorThesisLiteratureMainPaper)
-* ##### [Good Overviews of the Topic in General](https://github.com/RobertHennings/BachelorThesisLiteratureTopOverview)
+* ##### [Main Papers](https://github.com/RobertHennings/BachelorThesisLiterature/tree/main/MainPapers)
+* ##### [Good Overviews of the Topic in General](https://github.com/RobertHennings/BachelorThesisLiterature/tree/main/GoodOverviewOfTopicInGeneral)
 * ##### [Literature](https://github.com/RobertHennings/BachelorThesisLiterature)
 #### Lecture Notes of my Masters Programme can be found here: [CAU University of Kiel Lecture Notes in Mathematical Finance](https://www.math.uni-kiel.de/finmath/de/personen/kallsen/lec_notes)
 #### Topics that interest me are: Quantitative Finance, Stochastic Processes, Machine Learning, Big Data Analytics, Statistics and Inferential Statistics,                  Computational Finance, Market Making, High Frequency Trading, Derivatives, Fixed Income Derivatives, Neural Networks and Deep Learning, Neuroscience and Neuromathematics, Financial Engineering, Data Science, Statistical Learning, Algorithmic Trading, Portfoliomanagement, Asset Management, Optimisation, Mathematical Finance, Market-Microstructure
