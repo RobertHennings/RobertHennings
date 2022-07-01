@@ -5,7 +5,7 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 * #### M.Sc. Quantitative Finance, Christian-Albrechts-University Kiel (Currently enrolled)
 * #### B.Sc. Business Administration, Energy and Finance, University Duisburg-Essen, Campus Essen
 ### Various academic works of mine are present too:
-* #### Bachelor thesis: [Is liquidity risk still priced in the cross-section of US stocks?](https://github.com/RobertHennings/BachelorThesis/blob/main/Thesis%20Robert%20Hennings%202021%20Eng.pdf) (Final Grade: 1.3, 3.7 GPA)
+* #### Bachelor thesis: [Is liquidity risk still priced in the cross-section of US stocks?](https://github.com/RobertHennings/BachelorThesis) (Final Grade: 1.3, 3.7 GPA)
 * #### Seminar paper: [Are dividends actually disappearing? - Global evidence](https://github.com/RobertHennings/SeminarPaper_Dividends/blob/main/SeminarPaper%20Robert%20Hennings.pdf) (Final Grade: 1.0, 4.0 GPA)
 * #### Seminar paper: [Artificial neural networks (ANN) in business and technology](https://github.com/RobertHennings/SeminarPaper_NeuralNetworks/blob/main/Essay%20E3%20Robert%20Hennings%20SS21.pdf) (Final Grade: 1.7, 3.3 GPA)
 * #### Seminar paper: [(Un)divided attention? Effects of increasing smartphone usage on the human brain](https://github.com/RobertHennings/SeminarPaper_Attention/blob/main/Essay%20E3%20Robert%20Hennings%20SS21.pdf) (Final Grade: 1.0, 4.0 GPA)
