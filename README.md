@@ -1,6 +1,6 @@
 ### Hello I am Robert, nice to meet you 👋
 I am currently studying the Masters programme in [Quantitative Finance at the Christian-Albrechts-University of Kiel](http://www.studservice.uni-kiel.de/sta/fachpruefungsordnung-quantitative-finance-master-1-fach.pdf#page=8), SH Germany.
-Here on Github I am hosting all kinds of little own projects, files and concepts from my various university modules.
+Here on Github I am hosting all kinds of little own projects, files and concepts from my various university modules and internships.
 
 * #### M.Sc. Quantitative Finance, Christian-Albrechts-University Kiel (Currently enrolled)
 * #### B.Sc. Business Administration, Energy and Finance, University Duisburg-Essen, Campus Essen
