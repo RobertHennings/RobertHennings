@@ -4,6 +4,13 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 
 * #### M.Sc. Quantitative Finance, Christian-Albrechts-University Kiel (Currently enrolled)
 * #### B.Sc. Business Administration, Energy and Finance, University Duisburg-Essen, Campus Essen
+
+Projects I was staffed on during my internships can be found here:
+
+[Deutsche Börse, EUREX AG](https://github.com/RobertHennings/Internship_DeutscheBoerseEUREX)
+
+[Deutsche Bundesbank](https://github.com/RobertHennings/Internship_DeutscheBundesbank)
+
 ### Various academic works of mine are present too:
 * #### Bachelor thesis: [Is liquidity risk still priced in the cross-section of US stocks?](https://github.com/RobertHennings/BachelorThesis) (Final Grade: 1.3, 3.7 GPA)
 * #### Seminar paper: [Are dividends actually disappearing? - Global evidence](https://github.com/RobertHennings/SeminarPaper_Dividends/blob/main/SeminarPaper%20Robert%20Hennings.pdf) (Final Grade: 1.0, 4.0 GPA)
