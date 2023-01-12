@@ -11,6 +11,10 @@ Projects I was staffed on during my internships can be found here:
 
 [Deutsche Bundesbank](https://github.com/RobertHennings/Internship_DeutscheBundesbank)
 
+Projects I was staffed on during my working student positions can be found here:
+
+[Statista Q](https://github.com/RobertHennings/WorkingStudent_StatistaQ)
+
 ### Various academic works of mine are present too:
 * #### Bachelor thesis: [Is liquidity risk still priced in the cross-section of US stocks?](https://github.com/RobertHennings/BachelorThesis) (Final Grade: 1.3, 3.7 GPA)
 * #### Seminar paper: [Are dividends actually disappearing? - Global evidence](https://github.com/RobertHennings/SeminarPaper_Dividends/blob/main/SeminarPaper%20Robert%20Hennings.pdf) (Final Grade: 1.0, 4.0 GPA)
