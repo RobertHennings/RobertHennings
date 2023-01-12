@@ -13,6 +13,8 @@ Projects I was staffed on during my internships can be found here:
 
 Projects I was staffed on during my working student positions can be found here:
 
+[Vattenfall Energy Trading](https://github.com/RobertHennings/WorkingStudent_VattenfallEnergyTrading)
+
 [Statista Q](https://github.com/RobertHennings/WorkingStudent_StatistaQ)
 
 ### Various academic works of mine are present too:
