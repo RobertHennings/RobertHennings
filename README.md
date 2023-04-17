@@ -3,6 +3,7 @@ I am currently studying the Masters programme in [Quantitative Finance at the Ch
 Here on Github I am hosting all kinds of little own projects, files and concepts from my various university modules and internships.
 
 * #### M.Sc. Quantitative Finance, Christian-Albrechts-University Kiel (Currently enrolled)
+   [Courses, material and code I have written](https://github.com/RobertHennings/MasterQuantFinanceCAU_Courses_Projects)
 * #### B.Sc. Business Administration, Energy and Finance, University Duisburg-Essen, Campus Essen
 
 Projects I was staffed on during my internships can be found here:
