@@ -14,6 +14,8 @@ Projects I was staffed on during my internships can be found here:
 
 Projects I was staffed on during my working student positions can be found here:
 
+[Chair of Finance, Prof. Dr. Jacobs, University Duisburg-Essen](https://github.com/RobertHennings/WorkingStudent_ChairOfFinanceUniDUE)
+
 [Vattenfall Energy Trading](https://github.com/RobertHennings/WorkingStudent_VattenfallEnergyTrading)
 
 [Statista Q](https://github.com/RobertHennings/WorkingStudent_StatistaQ)
