@@ -4,6 +4,8 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 
 * #### M.Sc. Quantitative Finance, Christian-Albrechts-University Kiel (Currently enrolled)
    [Courses, material and code I have written](https://github.com/RobertHennings/MasterQuantFinanceCAU_Courses_Projects)
+
+   [OpenCampus Summer term 2023 Course "Machine Learning with TensorFlow"](https://github.com/RobertHennings/OpenCampus_Sentiment_Project)
 * #### B.Sc. Business Administration, Energy and Finance, University Duisburg-Essen, Campus Essen
 
 Projects I was staffed on during my internships can be found here:
