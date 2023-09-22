@@ -60,6 +60,8 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Data Science from Scratch: First Principles with Python - Joel Grus - 2019
 * Git – kurz & gut - Nina Siessegger - 2022
 * Web Scraping with Python - Ryan Mitchell - 2018
+* Pro Git - Scott Chacon, Ben Straub - 2022
+* Using Docker - Adrian Mouat - 2015
 #### Statistics, Mathematics and Machine Learning
 * An Introduction to Statistical Learning: with Applications in R - Gareth James, Daniela Witten - 2021
 * The Handbook of Energy Trading - Stefano Fiorenzani, Samuele Ravelli, Enrico Edoli - 2011
