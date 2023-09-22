@@ -54,6 +54,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 #### Economy and Politics
 * The World for Sale: Money, Power, and the Traders Who Barter the Earth's Resources - Jack Farchy, Javier Blas - 2021
 * Erneuerbare Energien zum Verstehen und Mitreden - Christian Holler, Joachim Gaukel, Harald Lesch, Florian Lesch, Charlotte Kelschenbach - 2021
+* Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail - Ray Dalio - 2021
 #### Coding
 * Python for Excel: A Modern Environment for Automation and Data Analysis - Felix Zumstein - 2021
 * Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter - Wes McKinney - 2022
