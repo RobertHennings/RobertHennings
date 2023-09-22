@@ -59,6 +59,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter - Wes McKinney - 2022
 * Data Science from Scratch: First Principles with Python - Joel Grus - 2019
 * Git – kurz & gut - Nina Siessegger - 2022
+* Web Scraping with Python - Ryan Mitchell - 2018
 #### Statistics, Mathematics and Machine Learning
 * An Introduction to Statistical Learning: with Applications in R - Gareth James, Daniela Witten - 2021
 * The Handbook of Energy Trading - Stefano Fiorenzani, Samuele Ravelli, Enrico Edoli - 2011
@@ -72,6 +73,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Moralischer Fortschritt in dunklen Zeiten: Universale Werte für das 21. Jahrhundert - Markus Gabriel - 2020
 * Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think - Hans Rosling - 2018
 * The Art of Thinking Clearly: The Secrets of Perfect Decision-Making - Rolf Dobelli - 2013
+* Die letzten Rätsel der Mathematik - Ian Stewart, Monika Niehaus, Dr. Bernd Schuh - 2015
 #### Physics and Space
 * Brief Answers to the Big Questions - Stephen Hawking - 2018
 * A Brief History of Time: And Other Essays - Stephen Hawking - 1998
@@ -80,6 +82,8 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * The Bond King: How One Man Made a Market, Built an Empire, and Lost It All - Mary Childs - 2022
 #### Communication
 * Das Harvard-Konzept: Die unschlagbare Methode für beste Verhandlungsergebnisse - William Ury, Roger Fisher - 2018
+#### Psychology
+* Persönlichkeit – Auf der Suche nach unserer Individualität - Christian Montag - 2016
 #### Stock Valuation and general Investing
 * Unternehmensbewertung & Kennzahlenanalyse: Praxisnahe Einführung mit zahlreichen Fallbeispielen börsennotierter Unternehmen - Nicolas Schmidlin - 2020
 * So funktioniert die Börse - Christoph A. Scherbaum - 2015
