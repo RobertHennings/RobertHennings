@@ -61,6 +61,10 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 #### Statistics, Mathematics and Machine Learning
 * An Introduction to Statistical Learning: with Applications in R - Gareth James, Daniela Witten - 2021
 * The Handbook of Energy Trading - Stefano Fiorenzani, Samuele Ravelli, Enrico Edoli - 2011
+* Wirtschafts- und Bevölkerungsstatistik - Andreas Behr, Götz Rohwer - 2019
+* Grundwissen Deskriptive Statistik - Andreas Behr - 2023
+* Financial Capital. Data and Models - Andreas Behr, Götz Rohwer - 2021
+* Grundwissen Induktive Statistik - Andreas Behr, Götz Rohwer - 2018
 #### Philosophy and rational thinking
 * Hiking With Nietzsche: On Becoming Who You Are - John J. Kaag - 2018
 * Becoming Myself: A Psychiatrist's Memoir - Irvin D. YalomIrvin D. Yalom - 2017
