@@ -70,6 +70,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Grundwissen Deskriptive Statistik - Andreas Behr - 2023
 * Financial Capital. Data and Models - Andreas Behr, Götz Rohwer - 2021
 * Grundwissen Induktive Statistik - Andreas Behr, Götz Rohwer - 2018
+* Neuromathematik und Assoziativmaschinen - Hans-Joachim Bentz, Andreas Dierks - 2013
 #### Philosophy and rational thinking
 * Hiking With Nietzsche: On Becoming Who You Are - John J. Kaag - 2018
 * Becoming Myself: A Psychiatrist's Memoir - Irvin D. YalomIrvin D. Yalom - 2017
