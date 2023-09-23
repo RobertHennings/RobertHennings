@@ -77,12 +77,19 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think - Hans Rosling - 2018
 * The Art of Thinking Clearly: The Secrets of Perfect Decision-Making - Rolf Dobelli - 2013
 * Die letzten Rätsel der Mathematik - Ian Stewart, Monika Niehaus, Dr. Bernd Schuh - 2015
+* Dark Data: Why What You Don't Know Matters - David J. Hand - 2022
 #### Physics and Space
 * Brief Answers to the Big Questions - Stephen Hawking - 2018
 * A Brief History of Time: And Other Essays - Stephen Hawking - 1998
+#### Quantitative Finance/Financial Engineering
+* Financial Engineering: Strategien, Bewertungen und Risikomanagement -  Michael Bloss, Daniel Sörensen, Manuel Kleinknecht - 2020
+* Market Microstructure in Practice: Second Edition - Sophie Laruelle, Charles-Albert Lehalle - 2018
 #### Quant/ Asset Class History
 * The Man who solved the market - Gregory Zuckerman - 2019
 * The Bond King: How One Man Made a Market, Built an Empire, and Lost It All - Mary Childs - 2022
+* Beat the Market: A Scientific Stock Market System - Edward O. Thorp, Sheen T. Kassouf - 1967
+* The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It - Scott Patterson - 2011
+* Taking the Floor: Models, Morals, and Management in a Wall Street Trading Room - Daniel Beunza - 2021
 #### Communication
 * Das Harvard-Konzept: Die unschlagbare Methode für beste Verhandlungsergebnisse - William Ury, Roger Fisher - 2018
 #### Psychology
