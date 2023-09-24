@@ -64,6 +64,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Web Scraping with Python - Ryan Mitchell - 2018
 * Pro Git - Scott Chacon, Ben Straub - 2022
 * Using Docker - Adrian Mouat - 2015
+* Pandas for Everyone: Python Data Analysis - Daniel Y. Chen - 2017 
 #### Statistics, Mathematics and Machine Learning
 * An Introduction to Statistical Learning: with Applications in R - Gareth James, Daniela Witten - 2021
 * The Handbook of Energy Trading - Stefano Fiorenzani, Samuele Ravelli, Enrico Edoli - 2011
@@ -73,6 +74,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Grundwissen Induktive Statistik - Andreas Behr, Götz Rohwer - 2018
 * Neuromathematik und Assoziativmaschinen - Hans-Joachim Bentz, Andreas Dierks - 2013
 * (Parts) Time Series Analysis - James D. Hamilton - 1994
+* (Parts) Advances in Financial Machine Learning - Marcos López de Prado - 2018
 #### Philosophy and rational thinking
 * Hiking With Nietzsche: On Becoming Who You Are - John J. Kaag - 2018
 * Becoming Myself: A Psychiatrist's Memoir - Irvin D. YalomIrvin D. Yalom - 2017
@@ -91,6 +93,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Energy Trading and Risk Management, A Practical Approach to Hedging, Trading, and Portfolio Diversification - Iris Mack - 2014
 * Fixed Income Analysis - Frank J. Fabozzi - 2007
 * (Parts) Mathematical Finance - Ernst Eberlein, Jan Kallsen - 2020
+* Optimal Investment - L. C. G. Rogers - 2012
 #### Quant/ Asset Class History
 * The Man who solved the market - Gregory Zuckerman - 2019
 * The Bond King: How One Man Made a Market, Built an Empire, and Lost It All - Mary Childs - 2022
