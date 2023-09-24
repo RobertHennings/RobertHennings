@@ -51,10 +51,11 @@ Projects I was staffed on during my working student positions can be found here:
 
 ### My Bookshelf
 Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) here are some of the books I read so far, happy for recommendations:
-#### Economy and Politics
+#### Economy, Politics and Macroeconomics
 * The World for Sale: Money, Power, and the Traders Who Barter the Earth's Resources - Jack Farchy, Javier Blas - 2021
 * Erneuerbare Energien zum Verstehen und Mitreden - Christian Holler, Joachim Gaukel, Harald Lesch, Florian Lesch, Charlotte Kelschenbach - 2021
 * Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail - Ray Dalio - 2021
+* Die Bürgerliche Revolution: Wie wir unsere Freiheit und unseren Wohlstand erhalten - Markus Krall - 2020
 #### Coding
 * Python for Excel: A Modern Environment for Automation and Data Analysis - Felix Zumstein - 2021
 * Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter - Wes McKinney - 2022
@@ -71,6 +72,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Financial Capital. Data and Models - Andreas Behr, Götz Rohwer - 2021
 * Grundwissen Induktive Statistik - Andreas Behr, Götz Rohwer - 2018
 * Neuromathematik und Assoziativmaschinen - Hans-Joachim Bentz, Andreas Dierks - 2013
+* (Parts) Time Series Analysis - James D. Hamilton - 1994
 #### Philosophy and rational thinking
 * Hiking With Nietzsche: On Becoming Who You Are - John J. Kaag - 2018
 * Becoming Myself: A Psychiatrist's Memoir - Irvin D. YalomIrvin D. Yalom - 2017
@@ -85,20 +87,28 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 #### Quantitative Finance/Financial Engineering
 * Financial Engineering: Strategien, Bewertungen und Risikomanagement -  Michael Bloss, Daniel Sörensen, Manuel Kleinknecht - 2020
 * Market Microstructure in Practice: Second Edition - Sophie Laruelle, Charles-Albert Lehalle - 2018
+* (Parts) Options, Futures, and Other Derivatives - John C. Hull - 2014
+* Energy Trading and Risk Management, A Practical Approach to Hedging, Trading, and Portfolio Diversification - Iris Mack - 2014
+* Fixed Income Analysis - Frank J. Fabozzi - 2007
+* (Parts) Mathematical Finance - Ernst Eberlein, Jan Kallsen - 2020
 #### Quant/ Asset Class History
 * The Man who solved the market - Gregory Zuckerman - 2019
 * The Bond King: How One Man Made a Market, Built an Empire, and Lost It All - Mary Childs - 2022
 * Beat the Market: A Scientific Stock Market System - Edward O. Thorp, Sheen T. Kassouf - 1967
 * The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It - Scott Patterson - 2011
 * Taking the Floor: Models, Morals, and Management in a Wall Street Trading Room - Daniel Beunza - 2021
+* Nerds on Wall Street: Math, Machines and Wired Markets - David J. Leinweber - 2009
 #### Communication
 * Das Harvard-Konzept: Die unschlagbare Methode für beste Verhandlungsergebnisse - William Ury, Roger Fisher - 2018
 #### Psychology
 * Persönlichkeit – Auf der Suche nach unserer Individualität - Christian Montag - 2016
+#### Blockchain and other tech stuff
+* Blockchain: Hype oder Innovation - Christoph Meinel, Tatiana Gayvoronskaya - 2020
 #### Stock Valuation and general Investing
 * Unternehmensbewertung & Kennzahlenanalyse: Praxisnahe Einführung mit zahlreichen Fallbeispielen börsennotierter Unternehmen - Nicolas Schmidlin - 2020
 * So funktioniert die Börse - Christoph A. Scherbaum - 2015
 * Fundamentalanalyse versus Chartanalyse Methoden der Aktienbewertung im Vergleich - Viktor Heese, Christian Riedel - 2016
+* Der entspannte Weg zum Reichtum - Susan Levermann - 2011
 
 For any further Questions or if you would like to stay in touch, don't hesitate to reach out to me via [LinkedIn](http://linkedin.com/in/robert-hennings). 
 
