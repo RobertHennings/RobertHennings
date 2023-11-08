@@ -51,6 +51,10 @@ Projects I was staffed on during my working student positions can be found here:
 
 ### My Bookshelf
 Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) here are some of the books I read so far, happy for recommendations:
+### Currently reading
+* Can't hurt me - David Goggins - 2018
+* Kampf dem Terror - Kampf dem Islam?: Chronik eines unbegrenzten Krieges - Peter Scholl Latour - 2002
+* The Math of Life and Death: 7 Mathematical Principles That Shape Our Lives - Kit Yates - 2020
 #### Economy, Politics and Macroeconomics
 * The World for Sale: Money, Power, and the Traders Who Barter the Earth's Resources - Jack Farchy, Javier Blas - 2021
 * Erneuerbare Energien zum Verstehen und Mitreden - Christian Holler, Joachim Gaukel, Harald Lesch, Florian Lesch, Charlotte Kelschenbach - 2021
