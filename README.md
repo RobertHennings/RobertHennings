@@ -55,20 +55,21 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Can't hurt me - David Goggins - 2018
 * Kampf dem Terror - Kampf dem Islam?: Chronik eines unbegrenzten Krieges - Peter Scholl Latour - 2002
 * The Math of Life and Death: 7 Mathematical Principles That Shape Our Lives - Kit Yates - 2020
-* Introducing MLOps: How to Scale Machine Learning in the Enterprise - Mark Treveil, Nicolas Omont, Clément Stenac, Kenji Lefevre, Du Phan, Joachim Zentici, Adrien Lavoillotte, Makoto Miyazaki, Lynn Heidmann - 2020
 #### Economy, Politics and Macroeconomics
 * The World for Sale: Money, Power, and the Traders Who Barter the Earth's Resources - Jack Farchy, Javier Blas - 2021
 * Erneuerbare Energien zum Verstehen und Mitreden - Christian Holler, Joachim Gaukel, Harald Lesch, Florian Lesch, Charlotte Kelschenbach - 2021
 * Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail - Ray Dalio - 2021
 * Die Bürgerliche Revolution: Wie wir unsere Freiheit und unseren Wohlstand erhalten - Markus Krall - 2020
+### Coding Infrastrcuture, Best Practices and Processes
+* Git – kurz & gut - Nina Siessegger - 2022
+* Pro Git - Scott Chacon, Ben Straub - 2022
+* Using Docker - Adrian Mouat - 2015
+* Introducing MLOps: How to Scale Machine Learning in the Enterprise - Mark Treveil, Nicolas Omont, Clément Stenac, Kenji Lefevre, Du Phan, Joachim Zentici, Adrien Lavoillotte, Makoto Miyazaki, Lynn Heidmann - 2020
 #### Coding
 * Python for Excel: A Modern Environment for Automation and Data Analysis - Felix Zumstein - 2021
 * Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter - Wes McKinney - 2022
 * Data Science from Scratch: First Principles with Python - Joel Grus - 2019
-* Git – kurz & gut - Nina Siessegger - 2022
 * Web Scraping with Python - Ryan Mitchell - 2018
-* Pro Git - Scott Chacon, Ben Straub - 2022
-* Using Docker - Adrian Mouat - 2015
 * Pandas for Everyone: Python Data Analysis - Daniel Y. Chen - 2017 
 #### Statistics, Mathematics and Machine Learning
 * An Introduction to Statistical Learning: with Applications in R - Gareth James, Daniela Witten - 2021
