@@ -60,7 +60,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * Erneuerbare Energien zum Verstehen und Mitreden - Christian Holler, Joachim Gaukel, Harald Lesch, Florian Lesch, Charlotte Kelschenbach - 2021
 * Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail - Ray Dalio - 2021
 * Die Bürgerliche Revolution: Wie wir unsere Freiheit und unseren Wohlstand erhalten - Markus Krall - 2020
-### Coding Infrastructure, Best Practices and Development Processes
+#### Coding Infrastructure, Best Practices and Development Processes
 * Git – kurz & gut - Nina Siessegger - 2022
 * Pro Git - Scott Chacon, Ben Straub - 2022
 * Using Docker - Adrian Mouat - 2015
