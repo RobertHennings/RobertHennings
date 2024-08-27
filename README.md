@@ -83,6 +83,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * (Parts) Time Series Analysis - James D. Hamilton - 1994
 * (Parts) Advances in Financial Machine Learning - Marcos López de Prado - 2018
 #### Philosophy and rational thinking
+* The Time Machine - H. G. Wells - 1895
 * Hiking With Nietzsche: On Becoming Who You Are - John J. Kaag - 2018
 * Becoming Myself: A Psychiatrist's Memoir - Irvin D. YalomIrvin D. Yalom - 2017
 * Moralischer Fortschritt in dunklen Zeiten: Universale Werte für das 21. Jahrhundert - Markus Gabriel - 2020
