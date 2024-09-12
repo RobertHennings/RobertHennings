@@ -91,6 +91,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 * The Art of Thinking Clearly: The Secrets of Perfect Decision-Making - Rolf Dobelli - 2013
 * Die letzten Rätsel der Mathematik - Ian Stewart, Monika Niehaus, Dr. Bernd Schuh - 2015
 * Dark Data: Why What You Don't Know Matters - David J. Hand - 2022
+* Gefangen in der Opferrolle: Warum Wokeness scheitert - Varnan Chandreswaran - 2024
 #### Physics and Space
 * Brief Answers to the Big Questions - Stephen Hawking - 2018
 * A Brief History of Time: And Other Essays - Stephen Hawking - 1998
@@ -114,6 +115,7 @@ Inspired by a collegue I met during my internship at the Eurex (Clive D'Souza) h
 #### Psychology
 * Persönlichkeit – Auf der Suche nach unserer Individualität - Christian Montag - 2016
 * Von der Kunst des Zuhörens: Therapeutische Aspekte der Psychoanalyse - Erich Fromm - 2005
+* Why We Remember: Unlocking Memory's Power to Hold on to What Matters - Charan Ranganath - 2024
 #### Blockchain and other tech stuff
 * Blockchain: Hype oder Innovation - Christoph Meinel, Tatiana Gayvoronskaya - 2020
 #### Stock Valuation and general Investing
