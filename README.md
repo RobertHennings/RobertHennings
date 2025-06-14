@@ -4,6 +4,7 @@ Here on Github I am hosting all kinds of little own projects, files and concepts
 Two API Wrappers that I have written:
 1) [Finra](https://github.com/RobertHennings/FINRA_CLIENT)
 2) [Strava](https://github.com/RobertHennings/STRAVA_CLIENT)
+3) [ECB Data Info](https://github.com/RobertHennings/ECB_DATAINFO)
 
 * #### M.Sc. Quantitative Finance, Christian-Albrechts-University Kiel (Currently enrolled)
    [Courses, material and code I have written](https://github.com/RobertHennings/MasterQuantFinanceCAU_Courses_Projects)
