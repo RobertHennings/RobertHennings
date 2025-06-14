@@ -1,7 +1,7 @@
 ### Hello I am Robert, nice to meet you 👋
 I am currently studying the Masters programme in [Quantitative Finance at the Christian-Albrechts-University of Kiel](http://www.studservice.uni-kiel.de/sta/fachpruefungsordnung-quantitative-finance-master-1-fach.pdf#page=8), SH Germany.
 Here on Github I am hosting all kinds of little own projects, files and concepts from my various university modules and internships.
-Two API Wrappers that I have written:
+API Wrappers that I have written:
 1) [Finra](https://github.com/RobertHennings/FINRA_CLIENT)
 2) [Strava](https://github.com/RobertHennings/STRAVA_CLIENT)
 3) [ECB Data Info](https://github.com/RobertHennings/ECB_DATAINFO)
