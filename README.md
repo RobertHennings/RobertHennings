@@ -10,6 +10,9 @@ API Wrappers that I have written:
    [Courses, material and code I have written](https://github.com/RobertHennings/MasterQuantFinanceCAU_Courses_Projects)
 
    [OpenCampus Summer term 2023 Course "Machine Learning with TensorFlow"](https://github.com/RobertHennings/OpenCampus_Sentiment_Project)
+
+   [Self developed CAU Kiel LaTeX Thesis and Beamer Templates](https://github.com/RobertHennings/Latex_Templates)
+
 * #### B.Sc. Business Administration, Energy and Finance, University Duisburg-Essen, Campus Essen
 
 Projects I was staffed on during my internships can be found here:
