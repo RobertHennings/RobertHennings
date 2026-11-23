@@ -12,7 +12,7 @@
         "height": 90
       },
       "config": {
-        "accentColor": "#ffb800"
+        "accentColor": "#9b0a7d"
       },
       "locked": false,
       "visible": true,
@@ -23,24 +23,25 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 280,
+        "x": 344,
         "y": 98
       },
       "size": {
-        "width": 504,
-        "height": 280
+        "width": 448,
+        "height": 296
       },
       "config": {
-        "accentColor": "#7a7a7a",
-        "textColor": "#ffb800",
+        "accentColor": "#9b0a7d",
+        "textColor": "#9b0a7d",
         "headerColor": "#7a7a7a",
-        "labelColor": "#ffb800",
+        "labelColor": "#9b0a7d",
         "showHighlights": true,
         "showStatus": true,
         "showEmail": true,
         "showOrgs": true,
         "animationType": "fade-in",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -56,12 +57,12 @@
       },
       "size": {
         "width": 536,
-        "height": 160
+        "height": 202
       },
       "config": {
         "accentColor": "#f0f0f0",
         "hideBorder": false,
-        "langsLayout": "bars",
+        "langsLayout": "list",
         "animationType": "fade-in",
         "animationPreviewKey": 1
       },
@@ -117,18 +118,18 @@
         "y": 594
       },
       "size": {
-        "width": 392,
-        "height": 392
+        "width": 408,
+        "height": 408
       },
       "config": {
         "lockAspectRatio": true,
         "transparentBackground": true,
         "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
+        "accentColor": "#9b0a7d",
+        "secondaryColor": "#7a7a7a",
         "borderColor": "#30363d",
         "customName": "Robert Hennings",
-        "customRoles": "Quantitative Finance, Data Scientist, Quantitative Power Modelling",
+        "customRoles": "Quantitative Finance, Data Scientist, Quantitative Power Modeling",
         "showLanguages": false
       },
       "locked": false,
@@ -151,8 +152,8 @@
         "lockAspectRatio": true,
         "transparentBackground": true,
         "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
+        "accentColor": "#9b0a7d",
+        "secondaryColor": "#7a7a7a",
         "borderColor": "#30363d"
       },
       "locked": false,
@@ -168,11 +169,11 @@
         "y": 90
       },
       "size": {
-        "width": 268,
-        "height": 288
+        "width": 328,
+        "height": 296
       },
       "config": {
-        "accentColor": "#ffb800",
+        "accentColor": "#9b0a7d",
         "asciiText": [
           "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
           "@hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh&",
@@ -31806,11 +31807,29 @@
         "rows": 125,
         "charset": "standard",
         "detail": "ultra",
-        "colorMode": "monochrome"
+        "colorMode": "monochrome",
+        "backgroundColor": "#0d1117"
       },
       "locked": false,
       "visible": true,
       "zIndex": 9
+    },
+    {
+      "instanceId": "widget_e4b13ba5-f2b1-448d-89fd-da6c473f514a",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 1018
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
