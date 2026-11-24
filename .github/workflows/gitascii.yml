@@ -2,6 +2,10 @@ name: Update GitAscii
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+      - gitascii
 
 permissions:
   contents: write
