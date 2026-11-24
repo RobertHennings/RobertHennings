@@ -8,8 +8,8 @@
         "y": 0
       },
       "size": {
-        "width": 800,
-        "height": 90
+        "width": 792,
+        "height": 82
       },
       "config": {
         "accentColor": "#9b0a7d",
@@ -66,7 +66,8 @@
         "langsLayout": "list",
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "backgroundColor": "transparent"
+        "backgroundColor": "transparent",
+        "textColor": "#9b0a7d"
       },
       "locked": false,
       "visible": true,
@@ -173,7 +174,7 @@
         "y": 90
       },
       "size": {
-        "width": 328,
+        "width": 360,
         "height": 296
       },
       "config": {
@@ -31812,7 +31813,8 @@
         "charset": "standard",
         "detail": "ultra",
         "colorMode": "monochrome",
-        "backgroundColor": "transparent"
+        "backgroundColor": "transparent",
+        "customWhoami": "Robert"
       },
       "locked": false,
       "visible": true,
@@ -31832,11 +31834,33 @@
       },
       "config": {
         "backgroundColor": "transparent",
-        "borderColor": "#060606"
+        "borderColor": "#9b0a7d",
+        "branch": "main"
       },
       "locked": false,
       "visible": true,
       "zIndex": 8
+    },
+    {
+      "instanceId": "widget_525d926b-e848-4859-b9cd-90c0bd559ea1",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 972
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#9b0a7d",
+        "backgroundColor": "transparent",
+        "borderColor": "#060606"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
     }
   ],
   "globalStyles": {
@@ -31848,7 +31872,8 @@
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "auto",
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "transparentBackground": false
   },
   "templateId": "terminal"
 }
