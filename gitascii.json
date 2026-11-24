@@ -12,7 +12,8 @@
         "height": 90
       },
       "config": {
-        "accentColor": "#9b0a7d"
+        "accentColor": "#9b0a7d",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -24,11 +25,11 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 344,
-        "y": 98
+        "y": 90
       },
       "size": {
         "width": 448,
-        "height": 296
+        "height": 304
       },
       "config": {
         "accentColor": "#9b0a7d",
@@ -41,7 +42,7 @@
         "showOrgs": true,
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "backgroundColor": "#060606"
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -64,7 +65,8 @@
         "hideBorder": false,
         "langsLayout": "list",
         "animationType": "fade-in",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -75,12 +77,12 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 544,
+        "x": 552,
         "y": 402
       },
       "size": {
         "width": 240,
-        "height": 160
+        "height": 202
       },
       "config": {
         "selectedTechs": [
@@ -102,7 +104,8 @@
           "notion"
         ],
         "theme": "dark",
-        "perLine": 4
+        "perLine": 4,
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -141,12 +144,12 @@
       "widgetId": "premium-ascii-insights",
       "name": "Premium-ascii-insights Widget",
       "position": {
-        "x": 400,
-        "y": 610
+        "x": 392,
+        "y": 602
       },
       "size": {
-        "width": 360,
-        "height": 360
+        "width": 392,
+        "height": 392
       },
       "config": {
         "lockAspectRatio": true,
@@ -154,7 +157,8 @@
         "backgroundColor": "transparent",
         "accentColor": "#9b0a7d",
         "secondaryColor": "#7a7a7a",
-        "borderColor": "#30363d"
+        "borderColor": "#30363d",
+        "hideBorder": false
       },
       "locked": false,
       "visible": true,
@@ -31808,7 +31812,7 @@
         "charset": "standard",
         "detail": "ultra",
         "colorMode": "monochrome",
-        "backgroundColor": "#0d1117"
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -31826,7 +31830,10 @@
         "width": 800,
         "height": 250
       },
-      "config": {},
+      "config": {
+        "backgroundColor": "transparent",
+        "borderColor": "#060606"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 8
@@ -31840,7 +31847,7 @@
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
-    "themeMode": "dark",
+    "themeMode": "auto",
     "templateStyle": "native"
   },
   "templateId": "terminal"
